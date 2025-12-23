@@ -1,5 +1,6 @@
 # 💫 About Me:
-## 👋 Hi, I’m Shaswat<br>I create things for fun.<br>If they’re useful, that’s a pleasant side effect.
+## 👋 Hi, I’m Shaswat<br>
+I create things for fun.<br>If they’re useful, that’s a pleasant side effect.
 
 
 ## 🌐 Socials:
