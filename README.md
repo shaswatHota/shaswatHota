@@ -50,8 +50,7 @@ If they’re useful, that’s a pleasant side effect.
 
 ### 📊 GitHub Stats:
 
-[![Shaswat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaswatHota)](https://github.com/shaswatHota/github-readme-stats)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shaswatHota?cardType=github&theme=radical&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
