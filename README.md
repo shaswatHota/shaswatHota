@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m Shaswat
 
-I create things for fun.
+I create things for fun.<br/>
 If they’re useful, that’s a pleasant side effect.
 
 ---
