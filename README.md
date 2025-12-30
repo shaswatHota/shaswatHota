@@ -56,4 +56,4 @@ If they’re useful, that’s a pleasant side effect.
 
 ### 🏆 GitHub Trophies:
 
-![Shaswat's Trophies](https://github-profile-trophy.vercel.app/?username=shaswatHota&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
+![Shaswat's Trophies](https://awesome-github-stats.azurewebsites.net/user-stats/shaswatHota/stats)
