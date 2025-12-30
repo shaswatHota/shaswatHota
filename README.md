@@ -50,7 +50,7 @@ If they’re useful, that’s a pleasant side effect.
 
 ### 📊 GitHub Stats:
 
-![Shaswat's Stats](https://github-readme-stats.vercel.app/api?username=shaswatHota&show_icons=true&theme=dracula&hide_border=true)
+![Shaswat's Stats](https://github-readme-stats.vercel.app/api?username=shaswatHota&theme=dracula&hide_border=true)
 
 ![Shaswat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatHota&layout=compact&theme=dracula&hide_border=true)
 
