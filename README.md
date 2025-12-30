@@ -50,16 +50,12 @@ If they’re useful, that’s a pleasant side effect.
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaswatHota&show_icons=true&theme=dracula&hide_border=true" alt="Shaswat's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatHota&layout=compact&theme=dracula&hide_border=true" alt="Shaswat's Top Languages" />
-</div>
+![Shaswat's Stats](https://github-readme-stats.vercel.app/api?username=shaswatHota&show_icons=true&theme=dracula&hide_border=true)
+
+![Shaswat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatHota&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaswatHota&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="Shaswat's Trophies" />
-</div>
+![Shaswat's Trophies](https://github-profile-trophy.vercel.app/?username=shaswatHota&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
